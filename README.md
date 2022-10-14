@@ -1,2 +1,2 @@
-# capstone
-졸프 아좌좌^~^
+# Sea see 
+capstone design project
